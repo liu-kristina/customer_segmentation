@@ -16,3 +16,12 @@ Sklearn
 # Project Description
 Anlazying Credit card customer data base. Exploring customer payment behavior for targeted marketing.
 
+I identified three customer groups:
+
+Frequent purchasers with installments
+"Cash in Advance" users
+Casual, less active users
+representing the majority of the customer base, with lower financial risk and high market potential, making them an ideal target for a marketing campaign.
+
+
+
