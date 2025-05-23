@@ -13,7 +13,7 @@ Principle Component Analysis
 Python
 Pandas, jupyter
 Sklearn
-# Project Description
+## Project Description
 Anlazying Credit card customer data base. Exploring customer payment behavior for targeted marketing.
 
 I identified three customer groups:
